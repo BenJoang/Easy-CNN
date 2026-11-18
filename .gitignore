@@ -1,0 +1,9 @@
+# Local datasets
+/data/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
